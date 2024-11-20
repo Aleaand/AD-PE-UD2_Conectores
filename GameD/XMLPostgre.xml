@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<configuracion>
+    <host>localhost</host>
+    <nick_name>Alejandra</nick_name>
+    <pass>root</pass>
+    <port>5432</port>
+    <user>postgres</user>
+</configuracion>
